@@ -58,7 +58,6 @@ AR 기반 맞춤형 가구 배치 앱
 
 ### 📈 GitHub 활동
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leeminwuk&layout=compact&theme=default"/></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=leeminwuk&show_icons=true&theme=default"/></p>
 <br clear="all"/>
 
 ---
